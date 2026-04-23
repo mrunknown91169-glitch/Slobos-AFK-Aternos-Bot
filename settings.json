@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 660,
       "messages": [
         "Find me !",
-        "Subscribe to God_gammer!",
-        "I like to play Minecraft!"
+        "I AM A BOT",
+        "My chat makes u irritate, but it's my work"
       ]
     },
     "chat-log": true,
